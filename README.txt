@@ -11,5 +11,6 @@ this is changed again by naughty user 1 lol
 change made from user1 branch1
 
 merge commit change from branch1
+addition by branch 2
 
 
