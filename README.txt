@@ -12,6 +12,6 @@ change made from user1 branch1
 merge commit change from branch1
 addition by branch 2 here
 line added by master
-line added by master1
+conflict line
 
 
