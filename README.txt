@@ -15,3 +15,4 @@ line added by master
 conflict line
 
 
+conflict from branch2
