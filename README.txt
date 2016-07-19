@@ -1,4 +1,4 @@
-hey!
+hey! - merge commit change from master
 hey u
 hii….
 akjdsfhkasdf
