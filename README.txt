@@ -1,5 +1,5 @@
 hey! - merge commit change from master
-hey u
+hey u - merge commit change from master again
 hii….
 akjdsfhkasdf
 this is changed by user2
