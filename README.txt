@@ -2,7 +2,7 @@ hey!
 hey u
 hii….
 akjdsfhkasdf
-this is changed by user2
+this is changed by user2 here
 this is changed by user 1
 this is changed again by user 1
 <<<<<<< HEAD
