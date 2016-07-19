@@ -1,5 +1,5 @@
 hey! - merge commit change from master here
-hey u - merge commit change from master again
+hey u - merge commit change from master again branch2
 hii….
 akjdsfhkasdf
 this is changed by user2
@@ -12,7 +12,4 @@ change made from user1 branch1
 merge commit change from branch1
 addition by branch 2 here
 line added by master
-conflict line
-
-
-conflict from branch2
+conflict line from branch2
