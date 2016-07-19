@@ -13,3 +13,4 @@ merge commit change from branch1
 addition by branch 2 here
 
 
+conflict from branch2
