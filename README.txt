@@ -3,7 +3,7 @@ hey u - merge commit change from master again branch2
 
 hii….
 akjdsfhkasdf
-this is changed by user2
+this is changed by user2 here
 this is changed by user 1
 this is changed again by user 1
 this is chaged by user 2 again
