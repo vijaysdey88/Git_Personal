@@ -1,2 +1,4 @@
 .DS_Store
 *junk*.txt
+.idea*
+random-problems/*
